@@ -12,8 +12,8 @@
 	- Investigation of the results
 	- Outliers inspection 
 - Self-Supervised Learning:
-	- Finding of the pretext task: JIGSAW PUZZLE
+	- Pretext task: JIGSAW PUZZLE
 - Comparison of the results
 
-
+For additional information about the project the paper is available
 

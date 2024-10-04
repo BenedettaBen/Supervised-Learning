@@ -1,5 +1,6 @@
 # Supervised Learning
- Food Classification through the application of CNNs in both supervised and self-supervised learning paradigms
+ Food Classification through the application of CNNs in both supervised and self-supervised learning paradigms. \
+ Please consider that in this project we had to follow some rules: the CNN had to be a custom model with a total number of parameters < 1M.
  
 ## Methodology
 - Data inspection
@@ -15,5 +16,5 @@
 	- Pretext task: JIGSAW PUZZLE
 - Comparison of the results
 
-For additional information about the project the paper is available
+For additional information about the project the report is available
 
